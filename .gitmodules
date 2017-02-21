@@ -1,3 +1,6 @@
 [submodule "chef_workstation_cb"]
 	path = chef_workstation_cb
 	url = https://github.com/rcruelljr/chef_workstation_cb
+[submodule "cookbooks/chef_workstation_cb"]
+	path = cookbooks/chef_workstation_cb
+	url = https://github.com/rcruelljr/chef_workstation_cb
